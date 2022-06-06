@@ -1,0 +1,97 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #F2EBE9;
+}
+
+header{
+background-image: url(../img/banner-header-tapete-1450520058Odj.jpg);
+background-repeat: no-repeat; 
+background-size: cover;
+height: 193px;
+margin-top: 0px;
+}
+
+.cabecera{
+    color: #cfbaf7;
+    padding-top: 110px;
+    padding-left: 150px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    font-size: 66px;
+}
+
+main img{
+    border-radius: 0px 0px 40px 0px;
+}
+
+.gobackmargin{
+    margin-top: 15px;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: #7C3E66;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.asobremi{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: #7C3E66;
+    font-size: 40px;
+    font-style: italic;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.aboutme{
+    margin-left: 20px;
+    line-height: 80px;
+}
+
+footer{
+    margin-top: 65px;
+    background-color: #cfbaf7;
+    text-align: center;
+}
+
+.expacademica{
+    color: #7C3E66;
+    font-family: "Raleway", sans-serif;
+    font-style: italic;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color:rgba(210, 184, 206, 0.8);
+}
+
+.lista{
+    margin-left: 20px;
+    margin-top: 25px;
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.footeraboutme{
+    margin-top: 345px;
+
+}
+
+i{
+    font-size: 25px;
+    padding: 0px 2px;
+    color: black;
+}
